@@ -5,12 +5,22 @@ https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?selec
 
 This project focusses on deriving insights from the customer satisfaction dataset inorder to understand the key attributes that contribute most to customer satisfaction.
 
+Motivation for this project:
+
+1. Airlines leave upto 1.4B USD in revenue on the table by failing to increase their customer satisfaction (source: Forrester)
+2. It takes almost 200K USD per year for a company of size 1000 and $100 in revenue to run a NPS program (source: CustomerGauge)
+
 This project has 3 primary objectives:
 
 1) Predict Customer Satisfaction
 2) Identify features that contribute most to customer satisfaction
 3) Use semi-supervised learning to create labels for data
 
+Expected Outcome:
+
+1) Increased Revenue (upto USD 1.4B)
+2) Cost savings in running NPS programs
+3) Improved brand image and perception
 
 
 Customer satisfaction is of utmost importance for airlines for several reasons:
