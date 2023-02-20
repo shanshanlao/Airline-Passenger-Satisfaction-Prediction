@@ -66,14 +66,23 @@ This project focusses on deriving insights from the customer satisfaction datase
 6) Feature Selection (LASSO,RFE)
 7) Based on the above results, we can drop 'Gender_Male','Gate_location','Age', 'Food_and_drink'.
 8) Implement Modelling:
+
   Baseline Model - DummyClassifier
+  
   Logistics Regression
+  
   KNN
+  
   Gaussian (Naive Bayees)
+  
   Decision Tree
+  
   Random Forest
+  
   LightGBM
+  
   XGBoost
+  
   AdsBoost
   
   Results:
@@ -141,12 +150,19 @@ The learners' results are nearly identical, with Online_boarding showing the gre
 
 #### Team Members:
 Dreama Wang - 261112206
+
 Nishi Nishi - 261078870
+
 Riley Zhu - 261094733
+
 ShanShan Lao - 261072808
+
 Micheal Murphy - 261060598
+
 Vibhu Bhardwaj - 261113187
+
 Darin Zlatarev - 261081234
+
 Utkarsh Nagpal - 261071466
 
 
