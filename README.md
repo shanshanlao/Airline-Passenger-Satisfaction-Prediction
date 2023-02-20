@@ -63,9 +63,9 @@ This project focusses on deriving insights from the customer satisfaction datase
 3) Splitting the Dataset (Train Test Split,Test Validation Split)
 4) Functions for Evaluation Metrics (ROC Curve,PR Curve,Classification Score)
 5) Verify Class Balance
-6) Feature Selection LASSO RFE
+6) Feature Selection (LASSO,RFE)
 7) Based on the above results, we can drop 'Gender_Male','Gate_location','Age', 'Food_and_drink'.
-8) Modelling:
+8) Implement Modelling:
   Baseline Model - DummyClassifier
   Logistics Regression
   KNN
@@ -104,14 +104,17 @@ Results:
 3) We look at the relation between this KPI and important features of the most accurate model. 
 4) Analyse Relation between Flight Distance and Satisfaction Ratio
 ![Data/Model_results.png](https://github.com/McGill-MMA-EnterpriseAnalytics/Airline-Passenger-Satisfaction-Prediction/blob/baddd7a9be720d85af68d4d04688f5d496ff9618/Data/ba1.png)
+
 We can see that satisfaction ratio is lower in low distance flights so our maximum focus should be on them
 
 5) Analyse Relation between Inflight_wifi_service and Satisfaction Ratio
 ![Data/Model_results.png](https://github.com/McGill-MMA-EnterpriseAnalytics/Airline-Passenger-Satisfaction-Prediction/blob/baddd7a9be720d85af68d4d04688f5d496ff9618/Data/ba2.png)
+
 We see that satisfaction ratio increase with better wifi service , therefore we should focus towards providing better wifi service
 
 6) Analyse Relation between Departure Delay and Satisfaction Ratio
 ![Data/Model_results.png](https://github.com/McGill-MMA-EnterpriseAnalytics/Airline-Passenger-Satisfaction-Prediction/blob/baddd7a9be720d85af68d4d04688f5d496ff9618/Data/ba3.png)
+
 We can see that satifaction ratio is decreasing as departure delay increase, we should try to decrease the delay
 
 #### Tasks Done in Further Causal Inference:
