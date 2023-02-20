@@ -76,7 +76,7 @@ This project focusses on deriving insights from the customer satisfaction datase
   XGBoost
   AdsBoost
   
-  Resluts:
+  Results:
 
 ![Data/Model_results.png](https://github.com/McGill-MMA-EnterpriseAnalytics/Airline-Passenger-Satisfaction-Prediction/blob/baddd7a9be720d85af68d4d04688f5d496ff9618/Data/Model_results.png)
 
