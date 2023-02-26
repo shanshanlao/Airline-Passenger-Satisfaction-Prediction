@@ -24,7 +24,7 @@ This project focusses on deriving insights from the customer satisfaction datase
 
 #### This project has 3 primary objectives:
 
-1) Predict Customer Satisfaction
+1) Predict Customer Satisfaction and create a dashboard to visualize the results
 2) Identify features that contribute most to customer satisfaction
 3) Use semi-supervised learning to create labels for data
 
