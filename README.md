@@ -39,7 +39,8 @@ This project focusses on deriving insights from the customer satisfaction datase
 1) Descriptive Analysis of Data.
 2) Data Modelling to Predict Customer Satisfaction.
 3) Define KPI (Satisfaction Ratio) and analyse previous results to maximize it.
-4) Do Further Causal Inference.
+4) Create Dashboard to summarize results
+5) Do Further Causal Inference.
 
 
 #### Tasks Done in Descriptive Analysis of Data:
@@ -85,16 +86,20 @@ This project focusses on deriving insights from the customer satisfaction datase
   
   AdsBoost
   
-  Results:
-
-![Data/Model_results.png](https://github.com/McGill-MMA-EnterpriseAnalytics/Airline-Passenger-Satisfaction-Prediction/blob/baddd7a9be720d85af68d4d04688f5d496ff9618/Data/Model_results.png)
-
 9) Semi-supervised Learning:
   Label Propagation KNN
   Label Spreading
 
 10) Evaluate model on test set
 Given the results, LightGBM has the highest F1-Score. Now we test the model performance on the unseen test dataset.
+  
+  Results:
+
+![Data/Model_results.png](https://github.com/McGill-MMA-EnterpriseAnalytics/Airline-Passenger-Satisfaction-Prediction/blob/baddd7a9be720d85af68d4d04688f5d496ff9618/Data/Model_results.png)
+
+Power BI dashboard:
+
+<img width="1203" alt="Screenshot 2023-02-26 at 2 40 03 PM" src="https://user-images.githubusercontent.com/47519737/221433187-d3e59d78-3800-4915-a516-d1391938365f.png">
 
 
 Results:
